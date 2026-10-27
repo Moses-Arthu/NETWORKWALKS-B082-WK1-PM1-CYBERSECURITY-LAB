@@ -227,20 +227,21 @@ The network connection was then restarted/rebooted and connectivity was tested a
 
 ---
 
-### Problem 2. VirtualBox VT-x / Virtualization Error
+### Problem 2. Insufficient Disk Space for Kali Linux Setup
 
-The VM initially failed to start because hardware virtualization was disabled in the system firmware/BIOS.
+When attempting to set up the Windows environment for the Kali Linux virtual machine, the process failed because the host machine's storage was full.
+
+There was not enough free disk space to import and run the Kali Linux VM image.
 
 The issue was resolved by:
 
-1. Restarting the computer.
-2. Entering BIOS/UEFI settings.
-3. Enabling **Intel VT-x** / hardware virtualization.
-4. Saving the configuration.
-5. Restarting the computer.
-6. Starting the Kali VM again.
+1. Identifying large or unnecessary files on the host machine using Windows Storage Settings.
+2. Deleting unused files, old downloads, and temporary data.
+3. Uninstalling applications that were no longer needed to recover additional space.
+4. Verifying that sufficient free disk space was available.
+5. Resuming and successfully completing the Kali Linux setup in VirtualBox.
 
-After enabling virtualization, the VM started successfully.
+After freeing up the required disk space, the Kali Linux virtual machine was imported and configured successfully.
 
 ---
 
