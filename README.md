@@ -182,7 +182,7 @@ After completing the initial configuration, VirtualBox snapshots were created to
 | `search_in_kali_linux`   | 26/10/2026 18:40   | Baseline after initial Kali search  |
 | `My first Kali Linux`    | 26/10/2026 19:04   | Clean baseline after full setup     |
 
-![VM Snapshots](3-screenshot-kali-linux.png)
+
 
 The snapshot represents the clean baseline of the laboratory.
 
