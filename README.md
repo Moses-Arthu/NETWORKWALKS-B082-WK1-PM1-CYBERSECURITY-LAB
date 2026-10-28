@@ -120,7 +120,8 @@ A dedicated NAT Network was created in VirtualBox.
 - DHCP: Enabled
 - IPv6: Disabled
 
-![NAT Network Configuration](2-screenshot-network-settings-1.png)
+![NAT Network Configuration](NAT_network_setting.png
+)
 
 A **NAT Network** was selected because multiple virtual machines connected to the same NAT Network can communicate with one another while also having outbound network connectivity.
 
