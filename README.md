@@ -134,6 +134,9 @@ This will allow future attacker and target VMs to communicate within the lab.
 The Kali Linux virtual machine was downloaded from the official [Kali Linux website](https://kali.org/get-kali) and imported into VirtualBox.
 
 The VM network adapter was configured as follows:
+![](kali_linux.png)
+A shared folder was also configured for transferring required files between the host operating system and the Kali VM.
+
 
 ```
 Adapter 1
