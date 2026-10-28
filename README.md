@@ -297,7 +297,7 @@ This laboratory is intended strictly for **education purposes only**.
 
 ## 👤 Author
 
-**Arthu Moses**  
+**Arthur Moses**  
 Cybersecurity Student — B082
 
 ---
