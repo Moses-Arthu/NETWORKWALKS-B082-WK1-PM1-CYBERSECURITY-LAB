@@ -167,8 +167,6 @@ DNS:         8.8.8.8
 
 A consistent IP address makes it easier to document the lab and reference the Kali machine in future exercises.
 
-![Kali Linux Network Configuration](4-screenshot-kali-network-settings.png)
-
 ---
 
 ### Step 6. Create Clean VM Snapshots
