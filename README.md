@@ -67,7 +67,7 @@ It can be used for activities such as:
 
 ## 🏗️ Lab Architecture
 
-![Lab Architecture](1-screenshot-title-image.png)
+![Lab Architecture](https://github.com/waqaskarimccie/NETWORKWALKS-B082-WK1-PM1-CYBERSECURITY-LAB-SETUP-SAMPLE/raw/main/1-screenshot-title-image.png)
 
 Additional target machines can be added to the same virtual network in future projects.
 
